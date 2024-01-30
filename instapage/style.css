@@ -1,0 +1,117 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    position: relative;
+    bottom: -90px;    left: 40%;
+   
+    border: 1px solid black;
+    width: 538px;
+    height:922px
+}
+
+#profile {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-left: 5px;
+    margin-top: 2px;
+    top: 1px;
+}
+
+#profile img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+#more{
+    position:absolute;
+    top: 16px;
+    display: inline;
+margin-left: 510px;
+font-size: 25px;
+}
+#maintxt{
+    font-size: 20px;
+    margin-left: 60px;
+    position: absolute;
+    top: 10px;
+}
+#subtxt{
+    position: absolute;
+    font-weight: lighter;
+    font-size: 14px;
+    margin-left: 60px;
+    top: 32px;
+}
+
+.jsimg{
+margin-top: 6px;
+}
+.icons{
+    padding: 10px;
+    font-size: 30px;
+    letter-spacing: 10px;
+}
+
+#save{
+    position: absolute;
+    top: 746px;
+    left: 495px;
+    margin-left: 10px;
+}
+
+#likes{
+    margin-left: 2px;
+    font-weight: bolder;
+}
+
+.lorem{
+    margin-left: 2px;
+}
+#dot{
+    position: absolute;
+    top: 740px;
+    left: 250px;
+}
+#heart:hover{
+    text-shadow: 2px 2px 2px gray;
+    color: red !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-transform: none;
+   
+}
+.bottom{
+    font-size: 36px;
+    letter-spacing: 35px;
+    margin-left: 10px;
+ ;
+    
+}
+#profile1 {
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-left: 5px;
+    position: relative;
+   bottom: 42px;
+    left: 475px;
+}
+#profile1 img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.bottom #clap{
+    margin-left: 10px;
+}
+hr{
+    position: relative;
+    bottom: -6px;
+    border: 1px solid gray;
+}
